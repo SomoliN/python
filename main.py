@@ -1,7 +1,7 @@
 age = int(input('Сколько вам лет?: '))
 grade = int(input('В каком классе вы учитесь?: '))
 
-if age >= 20 and grade >= 5:
+if age >= 40 and grade >= 5:
     print('Доступ разрешен.')
 else:
     print('Доступ запрещен.')
@@ -14,4 +14,4 @@ def fun():
 end_time= time.time()
 fun()
 timetaken = end_time - start_time
-print("Your program takes: ", timetaken) # 0.0345
+print("Your program takes: ", timetaken) # 0.01
