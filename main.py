@@ -2,7 +2,7 @@ age = int(input('how old are you?: '))
 grade = int(input('В каком классе вы учитесь?: '))
 
 if age >= 10 and grade >= 50:
-    print('Доступ разрешен.')
+    print('condfirm')
 else:
     print('Доступ запрещен.')
 import time
