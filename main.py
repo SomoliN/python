@@ -1,7 +1,7 @@
 age = int(input('how old are you?: '))
 grade = int(input('В каком классе вы учитесь?: '))
 
-if age >= 10 and grade >= 50:
+if age >= 10 and grade >= 800:
     print('condfirm')
 else:
     print('Доступ запрещен.')
