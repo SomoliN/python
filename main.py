@@ -1,4 +1,4 @@
-age = int(input('how old are you?: '))
+age = int(input('how old are you man?: '))
 grade = int(input('В каком классе вы учитесь?: '))
 
 if age >= 10 and grade >= 800:
