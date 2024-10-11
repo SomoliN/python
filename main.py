@@ -8,8 +8,8 @@ else:
 import time
 start_time= time.time()
 def fun():
-    a=20
-    b=30
+    a=27
+    b=42
     c=a+b
 end_time= time.time()
 fun()
